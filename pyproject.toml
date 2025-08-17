@@ -1,4 +1,4 @@
-[project]
+    [project]
 name = "jeremy-ai-project"
 version = "0.1.0"
 description = "Add your description here"
